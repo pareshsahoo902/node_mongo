@@ -1,0 +1,29 @@
+ANDROID APP ABSTRACT:
+
+1.Frontend UI dsign and implementation.
+2.Databse Architechture(SQL)
+3.Backend Local Room DB with LiveData(MVVM)
+
+
+
+LAYOUTS/ACTIVITIES:
+
+1.landing Page
+2.OnBoarding Activity
+3.Enter Details(User Registration)
+4.HomePage (Dashboard)
+5.Edit Details User
+6.View Graph/Report
+
+
+
+FUNCTIONALLITY:
+
+1.Save Data in Database
+	-User Data
+	-Daily Progress
+	-Graph data or Report Data
+2.Calculating Water Volume and Consuption
+3.Fire Notifications
+4.Create Daily Progress Graph from water consuption data
+
